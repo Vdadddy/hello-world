@@ -4,7 +4,7 @@ Welcome to my first GitHub repository! I'm just getting started with coding and 
 
 ## About Me
 - 🌱 Currently learning: **Python** (and maybe web development soon)
-- 📍 Location: Saint Joseph, Missouri
+- 📍 Location: Missouri
 - 🎯 Goals: Build useful projects, improve my skills, and document my learning journey
 
 ## What You'll Find Here
